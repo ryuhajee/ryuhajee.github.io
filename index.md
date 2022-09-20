@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Numeric Methods 
 
 [Project 1 Newton-Raphson Method](https://colab.research.google.com/drive/12ReaViOkLJO5HQfqSp6VO_ojj1fJd2rW)
 <img src="images/newton.PNG?raw=true"/>
